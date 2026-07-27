@@ -4,4 +4,5 @@ Studied keyboard anatomy and creation for a while before this project. I now kno
 - PCB
 - PLATE
 - CASE
+<br>
 And although it sounds simple I know it'll be a long and precise process for me especially since this is the first actual keyboard I've made.
