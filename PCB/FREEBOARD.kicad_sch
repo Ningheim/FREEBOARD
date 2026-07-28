@@ -2752,6 +2752,12 @@
 		(uuid "1c09d4cd-adae-4728-9354-8873d12025d7")
 	)
 	(junction
+		(at 309.88 218.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1d76d315-a49a-4a65-ad71-2a2f3464eadd")
+	)
+	(junction
 		(at 36.83 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3952,6 +3958,12 @@
 		(uuid "d0b8b92d-d3a5-4bb0-8934-678d9fda26bd")
 	)
 	(junction
+		(at 309.88 233.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d15a4244-d14a-484f-8543-1f5b7fc48fc1")
+	)
+	(junction
 		(at 194.31 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4382,6 +4394,16 @@
 			(type default)
 		)
 		(uuid "0df240c8-9093-454e-bce8-b7edc63ea3b6")
+	)
+	(wire
+		(pts
+			(xy 309.88 218.44) (xy 326.39 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ece9171-5ed6-440c-aa1f-bb1621f9be9a")
 	)
 	(wire
 		(pts
@@ -7365,6 +7387,16 @@
 	)
 	(wire
 		(pts
+			(xy 317.5 226.06) (xy 318.77 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8271633-0c19-4b86-a292-8554c59abe4d")
+	)
+	(wire
+		(pts
 			(xy 161.29 64.77) (xy 153.67 64.77)
 		)
 		(stroke
@@ -7822,6 +7854,16 @@
 			(type default)
 		)
 		(uuid "e8a22789-560d-4aeb-a09b-5e374852c2bd")
+	)
+	(wire
+		(pts
+			(xy 309.88 233.68) (xy 326.39 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8b6bc82-a4b4-4c06-912d-fefc9c8b8bf1")
 	)
 	(wire
 		(pts
@@ -27732,6 +27774,95 @@
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
 					(reference "D18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SK6812MINI-E:SK6812MINI-E")
+		(at 326.39 226.06 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "caf5c1e6-69da-4ac6-9b86-4832263210bc")
+		(property "Reference" "D164"
+			(at 335.28 214.8839 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812MINI-E"
+			(at 335.28 217.424 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+			)
+		)
+		(property "Footprint" "footprints:SK6812MINI-E_fixed"
+			(at 327.66 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf"
+			(at 328.93 235.585 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 326.39 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "cdced8f6-eb03-46b2-a12c-06736d49f161")
+		)
+		(pin "4"
+			(uuid "5469c40a-8575-4d38-8eb6-bf69ef0c6720")
+		)
+		(pin "3"
+			(uuid "b7837d01-53a2-49cc-994b-88a450609c49")
+		)
+		(pin "1"
+			(uuid "2654a0d0-2836-4b75-9702-6573762a681b")
+		)
+		(instances
+			(project "FREEBOARD"
+				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
+					(reference "D164")
 					(unit 1)
 				)
 			)
