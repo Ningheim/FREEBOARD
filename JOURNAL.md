@@ -18,3 +18,6 @@ The layout is a 60%-style board with the function row and PrintScreen key includ
 This was a pretty difficult process, but I'm super excited and feeling good about the progress so far.
 
 *(Also, sorry about the video playing during the lapse, I was watching Mat Armstrong to stay sane through the whole process.)*
+
+# 7/28/2026: 3 Hours
+LAPSE
