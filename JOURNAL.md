@@ -9,6 +9,7 @@ I studied keyboard anatomy and creation for a while before starting this project
 - **Case**
 
 And as simple as that makes it look, I know it will be a long a grueling process especially since this is the first real keyboard I've made. Today I finished the keyboard matrix, taking inspiration from the Wormier 60% and 65% keyboards for the layout I mapped below:
+
 <img width="1189" height="413" alt="image" src="https://github.com/user-attachments/assets/ff191a45-fb7c-4429-b85a-6c9532385e14" />
 
 Next session I'll be routing the RGB LEDs, OLED display, rotary encoder, and external SoM connector in the schematic.
@@ -26,4 +27,5 @@ Made a lot of nice progress with tracing. I troubleshot the switch matrix and I 
 <img width="821" height="313" alt="image" src="https://github.com/user-attachments/assets/ca33dfb7-e9aa-4203-8d0a-1e8f750d27e0" />
 
 Once I get a response in the channel for help with wiring the power bus lines and the rotary encoder I'll resume and finish off the schematic process for now. I'm liking how it all looks so far. This is the schematic as of right now, once I finish the schematic I'll separate all the groups and finalize the organization of the file:
+
 <img width="870" height="804" alt="image" src="https://github.com/user-attachments/assets/ca15a51b-18e2-4ed3-9897-9c635129494c" />
