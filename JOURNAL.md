@@ -1,6 +1,7 @@
 # 7/27/2026: 3 Hours
 [LAPSE](https://lapse.hackclub.com/timelapse/CAK7ywI3q3qV)
-Studied keyboard anatomy and creation for a while before this project. I now know that I need 3 things to really make this keyboard:
+<br>
+I studied keyboard anatomy and creation for a while before this project. I now know that I need 3 things to really make this keyboard:
 - PCB
 - PLATE
 - CASE
