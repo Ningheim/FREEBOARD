@@ -9,7 +9,7 @@ I studied keyboard anatomy and creation for a while before starting this project
 - **Case**
 
 And as simple as that makes it look, I know it will be a long a grueling process especially since this is the first real keyboard I've made. Today I finished the keyboard matrix, taking inspiration from the Wormier 60% and 65% keyboards for the layout I mapped below:
-<img width="1190" height="414" alt="image" src="https://github.com/user-attachments/assets/b0089713-f991-4029-8eb6-a786c97a770b" />
+<img width="1189" height="413" alt="image" src="https://github.com/user-attachments/assets/ff191a45-fb7c-4429-b85a-6c9532385e14" />
 
 Next session I'll be routing the RGB LEDs, OLED display, rotary encoder, and external SoM connector in the schematic.
 
