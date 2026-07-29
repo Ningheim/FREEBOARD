@@ -47,4 +47,5 @@ Took me an hour to do it because I had some trouble with the fuse idea from earl
 - Rotary Encoder
 - OLED Display
 - Hotswappable Switches
+
 Anyways later today I'll work on the PCB design itself. I'll ask around if there's anything wrong with how I made the schematic but I think I'll be moving on now!
