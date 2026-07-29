@@ -21,7 +21,7 @@ This was a pretty difficult process, but I'm super excited and feeling good abou
 *(Also, sorry about the video playing during the lapse, I was watching Mat Armstrong to stay sane through the whole process.)*
 
 # 7/28/2026
-[LAPSE](https://lapse.hackclub.com/timelapse/dE8z8UnWDV4i)
+[LAPSE](https://lapse.hackclub.com/timelapse/dE8z8UnWDV4i) LAPSE
 
 Made a lot of nice progress with tracing. I troubleshot the switch matrix and I believe it's good as of now. It's easily subject to change after I add the rotary encoder. I'm not exactly sure how I'm supposed to incorporate the encoder right now. All of the other components are pretty straightforward except for that. I'm running out of pins on the Pico so I'm searching for ways to conserve as many as possible. Today I got Claude to help me code a JSON for a keyboard switch layout/plate and I finally got it looking professional-ish. Here's the polished version of what my keyboard layout will look like:
 <img width="821" height="313" alt="image" src="https://github.com/user-attachments/assets/ca33dfb7-e9aa-4203-8d0a-1e8f750d27e0" />
@@ -29,3 +29,8 @@ Made a lot of nice progress with tracing. I troubleshot the switch matrix and I 
 Once I get a response in the channel for help with wiring the power bus lines and the rotary encoder I'll resume and finish off the schematic process for now. I'm liking how it all looks so far. This is the schematic as of right now, once I finish the schematic I'll separate all the groups and finalize the organization of the file:
 
 <img width="870" height="804" alt="image" src="https://github.com/user-attachments/assets/ca15a51b-18e2-4ed3-9897-9c635129494c" />
+
+**Okay it's me 15 hours later**, I made tremendous progress with the Schematic and I was able to almost completely finish the schematic. I haven't assigned footprints yet but everything went extremely well this session. I implemented resistors and capacitors wherever I needed them. I found out I needed them by looking at other submissions to Keeb and asking claude a few questions. Speaking of Claude, it told me to add a fuse to the VBUS so the PCB I plan on connecting this stuff to wont completely self destruct if the RGB LEDs go crazy. But every time I added the fuse it kept giving me an error so for now I'm sticking with the error-less design. Next session I'll look into the whole fuse idea a little harder and I'll determine whether or not I'll use it; I'll also add footprints to everything and finally start working on laying out traces for the physical PCB. We're almost there!
+
+<img width="1825" height="855" alt="image" src="https://github.com/user-attachments/assets/c8520374-5602-41fd-9222-bfbebb062ad3" />
+
