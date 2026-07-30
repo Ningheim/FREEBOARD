@@ -14529,7 +14529,7 @@
 				)
 			)
 		)
-		(property "Value" "510"
+		(property "Value" "350"
 			(at 381 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
