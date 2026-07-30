@@ -49,3 +49,20 @@ Took me an hour to do it because I had some trouble with the fuse idea from earl
 - Hotswappable Switches
 
 Anyways later today I'll work on the PCB design itself. I'll ask around if there's anything wrong with how I made the schematic but I think I'll be moving on now!
+
+**Its around midnight now** I got done with a 4-5 hour session and i finished organizing everything and whatnot. The board organization is 90% done but i need some rest. Tomorrow I'll finish organizing the components in a few minutes and finally start routing.
+<img width="858" height="668" alt="image" src="https://github.com/user-attachments/assets/3a765e0c-4b64-4eed-aca7-ce3004881e84" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
