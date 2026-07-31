@@ -34,7 +34,7 @@ Once I get a response in the channel for help with wiring the power bus lines an
 <img width="1825" height="855" alt="image" src="https://github.com/user-attachments/assets/c8520374-5602-41fd-9222-bfbebb062ad3" />
 
 # 7/29/2026
-LAPSE
+[LAPSE](https://lapse.hackclub.com/timelapse/_yMK92cxTNwy)
 
 Today I finalized the schematic and footprints.
 
@@ -52,6 +52,12 @@ Anyways later today I'll work on the PCB design itself. I'll ask around if there
 
 **Its around midnight now** I got done with a 4-5 hour session and i finished organizing everything and whatnot. The board organization is 90% done but i need some rest. Tomorrow I'll finish organizing the components in a few minutes and finally start routing.
 <img width="858" height="668" alt="image" src="https://github.com/user-attachments/assets/3a765e0c-4b64-4eed-aca7-ce3004881e84" />
+
+# 7/30/2026
+[LAPSE](https://lapse.hackclub.com/timelapse/d9UfakixuzQQ)
+
+Just started routing the PCB. It is not looking good at all. My organization is great though, but when I finished it all and went to fill the copper layer I got hundreds of errors and warnings. This was really discouraging but I know it isn't to important since all of my layouts and traces should be connected. I'll look over it again tomorrow. I suspect it's because I didn't put traces or Vias on any of the GND pads believing the layer fill would connect them all automatically. I'll try to do it manually later on.. Anyways the lapse feature has been working pretty well recently! I haven't gotten any corrupt or inaccessible files after strictly doing lapses from lapse.hackclub.com instead of any other embed or site, but, accidentally of course, I took a break to scroll tiktok and play games without pausing the recording so instead of 5 hours and 48 minutes its more like only 5 hours.
+<img width="1786" height="605" alt="image" src="https://github.com/user-attachments/assets/608c62f9-636b-4b99-8bcb-3760b20b9668" />
 
 
 
