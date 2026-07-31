@@ -3727,6 +3727,16 @@
 		)
 		(uuid "0bbeedf2-3be4-4a37-a2af-673a4a80d249")
 	)
+	(text "PICO"
+		(exclude_from_sim no)
+		(at 187.96 280.162 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+		)
+		(uuid "1c52a6c5-d21d-45b9-b002-a4fcc15fa3d5")
+	)
 	(text "ENTER"
 		(exclude_from_sim no)
 		(at 315.214 127 0)
@@ -3756,6 +3766,16 @@
 			)
 		)
 		(uuid "72573dc3-0859-4ad2-85ca-24aa7f6307ed")
+	)
+	(text "PICO"
+		(exclude_from_sim no)
+		(at 165.1 280.162 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+		)
+		(uuid "a5e41d36-d3b5-4994-971d-30ae7b53422f")
 	)
 	(text "LSHIFT"
 		(exclude_from_sim no)
@@ -3806,6 +3826,16 @@
 			)
 		)
 		(uuid "d8ba090c-508b-47eb-bfcc-c2bd2596a0c3")
+	)
+	(text "MCP\n"
+		(exclude_from_sim no)
+		(at 176.53 280.162 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+		)
+		(uuid "dfbcdef8-a32c-4eef-9a35-089085efaa42")
 	)
 	(junction
 		(at 392.43 62.23)
@@ -4178,12 +4208,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "339d9787-725d-44a4-910e-b6540d6a0127")
-	)
-	(junction
-		(at 350.52 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "33d0c832-6fa0-4818-8c2a-4a678c7ae9e1")
 	)
 	(junction
 		(at 425.45 182.88)
@@ -5134,6 +5158,12 @@
 		(uuid "b8168cc4-01ac-4f59-aed5-2d66e7866f14")
 	)
 	(junction
+		(at 392.43 246.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ba2db7d4-ce28-4471-9e23-1db41092f0af")
+	)
+	(junction
 		(at 425.45 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5380,6 +5410,12 @@
 		(uuid "dec350fc-08fb-4a83-b2ee-9acbd5775b07")
 	)
 	(junction
+		(at 350.52 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "defd5ce8-9a8e-42ed-8948-84dd3ab9ada2")
+	)
+	(junction
 		(at 392.43 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5432,12 +5468,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e555a975-55b9-4c2a-9802-a086d0ee23d7")
-	)
-	(junction
-		(at 392.43 246.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e6b427f7-2c6c-4088-b836-aacf1fe90dd7")
 	)
 	(junction
 		(at 314.96 53.34)
@@ -7196,16 +7226,6 @@
 			(type default)
 		)
 		(uuid "3d7c8042-97da-4f17-98b5-da93e488352b")
-	)
-	(wire
-		(pts
-			(xy 259.08 287.02) (xy 264.16 287.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3db7245b-a156-45aa-82d8-7c1c983c7526")
 	)
 	(wire
 		(pts
@@ -10249,16 +10269,6 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 289.56) (xy 262.89 289.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c0952dd8-4a6d-42c7-8120-a7007e6fc60b")
-	)
-	(wire
-		(pts
 			(xy 425.45 158.75) (xy 441.96 158.75)
 		)
 		(stroke
@@ -10779,7 +10789,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 289.56) (xy 262.89 290.83)
+			(xy 252.73 281.94) (xy 252.73 283.21)
 		)
 		(stroke
 			(width 0)
@@ -11479,6 +11489,16 @@
 	)
 	(wire
 		(pts
+			(xy 252.73 281.94) (xy 264.16 281.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe9805d5-20bd-4edc-886f-68c3d7621a7d")
+	)
+	(wire
+		(pts
 			(xy 274.32 66.04) (xy 281.94 66.04)
 		)
 		(stroke
@@ -11608,7 +11628,7 @@
 		(uuid "11ad1168-73d9-462d-ba26-3075fb1a8e42")
 	)
 	(label "OLED_SDA"
-		(at 264.16 281.94 180)
+		(at 264.16 289.56 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11818,7 +11838,7 @@
 		(uuid "5aae2cf7-44f1-41ae-80e2-8def65b0227c")
 	)
 	(label "+5V"
-		(at 259.08 287.02 180)
+		(at 264.16 284.48 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12037,6 +12057,16 @@
 		)
 		(uuid "a77cb6dc-8c18-4585-8326-c7b256a2cfc5")
 	)
+	(label "+5V"
+		(at 349.25 223.52 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a8e40fe7-a6bb-4721-9219-85b92c172c1d")
+	)
 	(label "Col12"
 		(at 337.82 39.37 0)
 		(effects
@@ -12188,7 +12218,7 @@
 		(uuid "c56bbd7e-19bb-4212-a3a5-0d464af7e874")
 	)
 	(label "OLED_SCL"
-		(at 264.16 284.48 180)
+		(at 264.16 287.02 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16313,7 +16343,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1970a63b-ddc3-42a4-9c04-c873c939434d")
-		(property "Reference" "D141"
+		(property "Reference" "D155"
 			(at 417.83 227.5839 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16386,7 +16416,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D141")
+					(reference "D155")
 					(unit 1)
 				)
 			)
@@ -16935,7 +16965,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1d539ef2-dd7b-4e05-a07b-9abcba5faad7")
-		(property "Reference" "D147"
+		(property "Reference" "D157"
 			(at 450.85 227.5839 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17008,7 +17038,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D147")
+					(reference "D157")
 					(unit 1)
 				)
 			)
@@ -18029,7 +18059,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "24c9180c-7652-4024-9543-b12bc05a21f4")
-		(property "Reference" "D157"
+		(property "Reference" "D143"
 			(at 516.89 179.3239 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18102,7 +18132,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D157")
+					(reference "D143")
 					(unit 1)
 				)
 			)
@@ -18462,7 +18492,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "26273c6a-0242-46d5-ab52-efe34b41c5f3")
-		(property "Reference" "D142"
+		(property "Reference" "D138"
 			(at 434.34 179.3239 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18535,7 +18565,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D142")
+					(reference "D138")
 					(unit 1)
 				)
 			)
@@ -20634,7 +20664,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "34803ff0-1e1e-466c-bece-aa402770d43f")
-		(property "Reference" "D161"
+		(property "Reference" "D153"
 			(at 533.4 203.4539 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20707,7 +20737,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D161")
+					(reference "D153")
 					(unit 1)
 				)
 			)
@@ -20877,7 +20907,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 262.89 290.83 0)
+		(at 252.73 283.21 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20888,7 +20918,7 @@
 		(fields_autoplaced yes)
 		(uuid "36aeb405-f538-462b-8ecc-2abb6b0262b4")
 		(property "Reference" "#PWR01"
-			(at 262.89 297.18 0)
+			(at 252.73 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20899,7 +20929,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 262.89 295.91 0)
+			(at 252.73 288.29 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20909,7 +20939,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 262.89 290.83 0)
+			(at 252.73 283.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20920,7 +20950,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 262.89 290.83 0)
+			(at 252.73 283.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20931,7 +20961,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 262.89 290.83 0)
+			(at 252.73 283.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21593,7 +21623,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a3594ae-4dba-4c11-9a09-41555c87b624")
-		(property "Reference" "D150"
+		(property "Reference" "D158"
 			(at 467.36 227.5839 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21666,7 +21696,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D150")
+					(reference "D158")
 					(unit 1)
 				)
 			)
@@ -23951,7 +23981,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4a2d6352-fc67-4d4d-bceb-95ad38c991e0")
-		(property "Reference" "D138"
+		(property "Reference" "D154"
 			(at 401.32 227.5839 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24024,7 +24054,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D138")
+					(reference "D154")
 					(unit 1)
 				)
 			)
@@ -24301,7 +24331,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4b8d1793-6f1b-482f-933a-45921ad849ed")
-		(property "Reference" "D148"
+		(property "Reference" "D140"
 			(at 467.36 179.3239 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24374,7 +24404,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D148")
+					(reference "D140")
 					(unit 1)
 				)
 			)
@@ -25831,7 +25861,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "551ebd50-d8a6-466a-898c-2f02c8183767")
-		(property "Reference" "D137"
+		(property "Reference" "D145"
 			(at 401.32 203.4539 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25904,7 +25934,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D137")
+					(reference "D145")
 					(unit 1)
 				)
 			)
@@ -26900,7 +26930,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5cbcb77e-b74d-43d1-b3a3-447f0a7fcd34")
-		(property "Reference" "D139"
+		(property "Reference" "D137"
 			(at 417.83 179.3239 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26973,7 +27003,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D139")
+					(reference "D137")
 					(unit 1)
 				)
 			)
@@ -27432,7 +27462,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "60dd4ffd-81ba-4a0d-994a-2f1e6aa3a356")
-		(property "Reference" "D152"
+		(property "Reference" "D150"
 			(at 483.87 203.4539 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27505,7 +27535,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D152")
+					(reference "D150")
 					(unit 1)
 				)
 			)
@@ -31475,7 +31505,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "79bbee2b-08b5-4025-b9b5-f14ac99b0a77")
-		(property "Reference" "D146"
+		(property "Reference" "D148"
 			(at 450.85 203.4539 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31548,7 +31578,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D146")
+					(reference "D148")
 					(unit 1)
 				)
 			)
@@ -34174,7 +34204,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8a2b351d-1db2-4b12-97aa-14cf94a51f9a")
-		(property "Reference" "D144"
+		(property "Reference" "D156"
 			(at 434.34 227.5839 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34247,7 +34277,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D144")
+					(reference "D156")
 					(unit 1)
 				)
 			)
@@ -34354,7 +34384,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8a6a732a-8ce4-43ee-8da8-2f29f0680211")
-		(property "Reference" "D151"
+		(property "Reference" "D141"
 			(at 483.87 179.3239 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34427,7 +34457,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D151")
+					(reference "D141")
 					(unit 1)
 				)
 			)
@@ -35287,7 +35317,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8ea70a47-bc57-4a49-a3cd-d4235bf378d0")
-		(property "Reference" "D153"
+		(property "Reference" "D159"
 			(at 483.87 227.5839 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35360,7 +35390,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D153")
+					(reference "D159")
 					(unit 1)
 				)
 			)
@@ -38608,7 +38638,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a13af4b3-aa38-4411-aec6-23bcdd35aad5")
-		(property "Reference" "D154"
+		(property "Reference" "D142"
 			(at 500.38 179.3239 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38681,7 +38711,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D154")
+					(reference "D142")
 					(unit 1)
 				)
 			)
@@ -39977,7 +40007,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a5dffb0b-5467-48de-8bcc-3ab5ef0d28db")
-		(property "Reference" "D143"
+		(property "Reference" "D147"
 			(at 434.34 203.4539 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40050,7 +40080,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D143")
+					(reference "D147")
 					(unit 1)
 				)
 			)
@@ -43914,7 +43944,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c12feff0-3ab0-4d49-a796-1e2f79e7426f")
-		(property "Reference" "D145"
+		(property "Reference" "D139"
 			(at 450.85 179.3239 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43987,7 +44017,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D145")
+					(reference "D139")
 					(unit 1)
 				)
 			)
@@ -44633,7 +44663,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c604d56a-90c0-4c8f-ba74-13bc664a4391")
-		(property "Reference" "D158"
+		(property "Reference" "D152"
 			(at 516.89 203.4539 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44706,7 +44736,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D158")
+					(reference "D152")
 					(unit 1)
 				)
 			)
@@ -44917,7 +44947,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c6e5cfe2-b9d4-4ea5-b6d3-fc2427539233")
-		(property "Reference" "D155"
+		(property "Reference" "D151"
 			(at 500.38 203.4539 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44990,7 +45020,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D155")
+					(reference "D151")
 					(unit 1)
 				)
 			)
@@ -45085,7 +45115,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c7249d4f-d14c-447d-9707-ecc46f5d3d5b")
-		(property "Reference" "D159"
+		(property "Reference" "D161"
 			(at 516.89 227.5839 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45158,7 +45188,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D159")
+					(reference "D161")
 					(unit 1)
 				)
 			)
@@ -50423,6 +50453,84 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 349.25 248.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ed361395-4318-4b9f-b295-e20fc1250be4")
+		(property "Reference" "#PWR018"
+			(at 349.25 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 349.25 254 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 349.25 248.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 349.25 248.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 349.25 248.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3ae0741e-35b8-44d2-bb1f-8f98e358695c")
+		)
+		(instances
+			(project "FREEBOARD"
+				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 320.04 285.75 0)
 		(mirror y)
 		(unit 1)
@@ -52173,7 +52281,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f7a8ca0d-ba81-4df1-bec6-17c3525834ce")
-		(property "Reference" "D160"
+		(property "Reference" "D144"
 			(at 533.4 179.3239 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52246,7 +52354,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D160")
+					(reference "D144")
 					(unit 1)
 				)
 			)
@@ -52754,7 +52862,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fa79489e-e4e9-42b9-85da-365f620b0135")
-		(property "Reference" "D156"
+		(property "Reference" "D160"
 			(at 500.38 227.5839 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52827,7 +52935,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D156")
+					(reference "D160")
 					(unit 1)
 				)
 			)
@@ -53529,7 +53637,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fd78bdcf-a966-4309-aa46-c1853dafbc1a")
-		(property "Reference" "D140"
+		(property "Reference" "D146"
 			(at 417.83 203.4539 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53602,7 +53710,7 @@
 		(instances
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D140")
+					(reference "D146")
 					(unit 1)
 				)
 			)
