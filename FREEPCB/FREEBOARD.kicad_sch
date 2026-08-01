@@ -4342,12 +4342,6 @@
 		(uuid "438e2504-a080-4b82-9875-8f18d7f49b99")
 	)
 	(junction
-		(at 408.94 279.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "43a0c055-66b0-4ff3-8b21-75dad61a7a9d")
-	)
-	(junction
 		(at 408.94 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4466,12 +4460,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "529f5a20-9bed-4db6-ba51-2b4a7c1628bc")
-	)
-	(junction
-		(at 392.43 294.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "55a2558d-a868-40fe-a458-0b99196e9c85")
 	)
 	(junction
 		(at 292.1 53.34)
@@ -5676,10 +5664,6 @@
 		(uuid "41d81d2b-70d3-4f17-a7b5-344be3165196")
 	)
 	(no_connect
-		(at 416.56 287.02)
-		(uuid "61d4fde1-428a-4ed2-a40c-301b89237569")
-	)
-	(no_connect
 		(at 344.17 217.17)
 		(uuid "67cffa05-7b5c-4ffc-b1ad-245b5cb4f386")
 	)
@@ -5710,6 +5694,10 @@
 	(no_connect
 		(at 344.17 214.63)
 		(uuid "a2d13f6f-d66a-4ace-bba6-4a2d17040c1c")
+	)
+	(no_connect
+		(at 401.32 287.02)
+		(uuid "b1ec2631-0ba9-44b5-ad5e-921544738f39")
 	)
 	(no_connect
 		(at 302.26 219.71)
@@ -7209,16 +7197,6 @@
 	)
 	(wire
 		(pts
-			(xy 392.43 294.64) (xy 408.94 294.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3cec07e4-26b6-407f-b45a-546c3da1b528")
-	)
-	(wire
-		(pts
 			(xy 532.13 45.72) (xy 532.13 57.15)
 		)
 		(stroke
@@ -7266,16 +7244,6 @@
 			(type default)
 		)
 		(uuid "3ebb6161-c8b2-4dc2-8abd-3bc6fd91c786")
-	)
-	(wire
-		(pts
-			(xy 392.43 279.4) (xy 408.94 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3efe6269-5d5d-4d09-b75b-1c6e6a90aa09")
 	)
 	(wire
 		(pts
@@ -11436,16 +11404,6 @@
 			(type default)
 		)
 		(uuid "fad191d5-e973-46ba-af47-daa7fedd0dc8")
-	)
-	(wire
-		(pts
-			(xy 408.94 273.05) (xy 408.94 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fae0d966-821e-4c9c-a369-ea79664162e7")
 	)
 	(wire
 		(pts
@@ -19340,84 +19298,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 416.56 273.05 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2a83c1ca-a0f4-435c-970d-fa5149353739")
-		(property "Reference" "#PWR0113"
-			(at 416.56 279.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 416.56 278.13 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 416.56 273.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 416.56 273.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 416.56 273.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "62edf42e-1fa0-4334-80e1-0e460012bcbd")
-		)
-		(instances
-			(project "FREEBOARD"
-				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "#PWR0113")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 480.06 25.4 90)
 		(unit 1)
@@ -24987,87 +24867,6 @@
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
 					(reference "#PWR030")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 412.75 273.05 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "4df24857-a4da-4386-8370-8f1995fd67de")
-		(property "Reference" "C96"
-			(at 408.686 279.146 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 410.464 279.146 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 416.56 272.0848 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 412.75 273.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 412.75 273.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "e1bad61d-6274-47f4-b17f-093f84898aaa")
-		)
-		(pin "1"
-			(uuid "ec43e981-89de-4dac-84dc-de6984820c38")
-		)
-		(instances
-			(project "FREEBOARD"
-				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "C96")
 					(unit 1)
 				)
 			)
@@ -34278,96 +34077,6 @@
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
 					(reference "D156")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SK6812MINI-E:SK6812MINI-E")
-		(at 408.94 287.02 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "8a35e712-033d-4f2d-b535-68da813c0cea")
-		(property "Reference" "D173"
-			(at 417.83 275.8439 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI-E"
-			(at 417.83 278.384 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-				)
-			)
-		)
-		(property "Footprint" "footprints:SK6812MINI-E_fixed"
-			(at 410.21 294.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf"
-			(at 411.48 296.545 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 408.94 287.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "6f8703e1-b098-4b78-8ebe-db24b11a1de6")
-		)
-		(pin "4"
-			(uuid "788ec465-ccac-4f95-bb5b-a88f27efbe44")
-		)
-		(pin "3"
-			(uuid "dca0e28d-ca29-4031-a1f2-503f3ceddaeb")
-		)
-		(pin "1"
-			(uuid "ae57da11-ea65-4345-965b-f33e3083259f")
-		)
-		(instances
-			(project "FREEBOARD"
-				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "D173")
 					(unit 1)
 				)
 			)
@@ -51305,7 +51014,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty-master:SSD1306-0.91-OLED-4pin-128x32"
+		(property "Footprint" "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
 			(at 269.24 284.48 0)
 			(hide yes)
 			(show_name no)
