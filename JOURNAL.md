@@ -71,7 +71,14 @@ I swapped out the OLED display footprint for a `Stemma QT 4-Pin Female Connector
 This would be both aesthetically pleasing and gives the display a little more accessibility. And now I'm tackling the GND plane issue. It took me a while to understand but now I realize I just have to connect all the GND pads together and then do the ground pour to leave no room for errors about my GND connection. I've routed about 45% of the GND net so far and once I finish this I will be able to finally move onto the Case design which I'm pretty excited for. I'm going to make this keyboard near perfect to actually use it in place of my current TKL one. Here's how the PCB looks now (I know, beautiful 🥹) :
 <img width="1066" height="563" alt="image" src="https://github.com/user-attachments/assets/851daa67-c56d-4d16-89f7-c2a4c4b53bfa" />
 
+# 8/1/2026
+LAPSE
 
+Finally completed the PCB within the first hour of this lapse. Spent the rest modelling the case. I'm double, triple, and quadruple checking each part of my layout just to make sure I don't have any miscalculations or inconsistencies with my work. This is how the finished PCB looked:
+
+<img width="1600" height="603" alt="image" src="https://github.com/user-attachments/assets/108113f4-2088-43a3-b2b8-9206295649dd" />
+
+I'm modelling the case design in Onshape and I guess I'll submit an assembly demo with push-able keys later.
 
 
 
