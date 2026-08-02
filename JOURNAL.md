@@ -91,9 +91,14 @@ I'm modelling the case design in Onshape and I guess I'll submit an assembly dem
 It looks great and I'm really happy about how I added the 2 stage stands at the top, I hope they work but yeah this is basically it for now.
 
 # 8/2/2026
-[LAPSE](https://lapse.hackclub.com/timelapse/M3SkIIiRgxoi)
+LAPSE
 
-I finished the entire Board body in about an hour. I'm moving onto the Firmware now. I finished modelling the Rotary Encoder Knob and Recessed the OLED Display panel a little more to allow this to keep it's low-(ish) profile silhouette.
+I finished the entire Board body in about an hour. I'm moving onto the Firmware now. I finished modelling the Rotary Encoder Knob and Recessed the OLED Display panel a little more to allow this to keep it's low-(ish) profile silhouette. 
+
+<img width="967" height="641" alt="image" src="https://github.com/user-attachments/assets/8e8dd107-7591-4422-925d-f779674da740" />
+
+> Also, for anyone that's looking to model their keyboard like I did with mine, I found the DSA profile models in a Reddit thread which I'm super grateful for. Here's the google [drive link](https://drive.google.com/drive/u/0/folders/0B0LNjZf_tzjWZGhwZ0VKUm9PQVE?resourcekey=0-rYUAMYD1-22Btlgdmpb0IQ)
+
 
 
 
