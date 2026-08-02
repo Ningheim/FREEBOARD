@@ -99,6 +99,10 @@ I finished the entire Board body in about an hour. I'm moving onto the Firmware 
 
 > Also, for anyone that's looking to model their keyboard like I did with mine, I found the DSA profile models in a Reddit thread which I'm super grateful for. Here's the google [drive link](https://drive.google.com/drive/u/0/folders/0B0LNjZf_tzjWZGhwZ0VKUm9PQVE?resourcekey=0-rYUAMYD1-22Btlgdmpb0IQ)
 
+And I forgot to generate the BOM and fabrication files for JLCPCB or PCBWAY so I made sure to do that. Also I forgot to add the copper fill layer, it wouldn't really be that bad if I left it out but I guess it's always optimal to do so, here's how it looked:
+
+<img width="1399" height="729" alt="image" src="https://github.com/user-attachments/assets/13c845a1-9f3c-4d3d-b285-2ed3ef9bd253" />
+
 
 
 
