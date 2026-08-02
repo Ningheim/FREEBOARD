@@ -91,7 +91,7 @@ I'm modelling the case design in Onshape and I guess I'll submit an assembly dem
 It looks great and I'm really happy about how I added the 2 stage stands at the top, I hope they work but yeah this is basically it for now.
 
 # 8/2/2026
-LAPSE
+[LAPSE](https://lapse.hackclub.com/timelapse/Tz_bAdnx_3QB)
 
 I finished the entire Board body in about an hour. I'm moving onto the Firmware now. I finished modelling the Rotary Encoder Knob and Recessed the OLED Display panel a little more to allow this to keep it's low-(ish) profile silhouette. 
 
