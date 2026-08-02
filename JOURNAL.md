@@ -35,7 +35,7 @@ Once I get a response in the channel for help with wiring the power bus lines an
 <img width="1825" height="855" alt="image" src="https://github.com/user-attachments/assets/c8520374-5602-41fd-9222-bfbebb062ad3" />
 
 # 7/29/2026
-[LAPSE](https://lapse.hackclub.com/timelapse/_yMK92cxTNwy)
+[LAPSE](https://lapse.hackclub.com/timelapse/rfvNHJk3dFeS)[LAPSE](https://lapse.hackclub.com/timelapse/_yMK92cxTNwy) 
 
 Today I finalized the schematic and footprints.
 
@@ -78,7 +78,7 @@ This would be both aesthetically pleasing and gives the display a little more ac
 <img width="1066" height="563" alt="image" src="https://github.com/user-attachments/assets/851daa67-c56d-4d16-89f7-c2a4c4b53bfa" />
 
 # 8/1/2026
-[LAPSE](https://lapse.hackclub.com/timelapse/lMde7KmQML3c)
+[LAPSE](https://lapse.hackclub.com/timelapse/lMde7KmQML3c) [LAPSE](https://lapse.hackclub.com/timelapse/M3SkIIiRgxoi)
 
 Finally completed the PCB within the first hour of this lapse. Spent the rest modelling the case. I'm double, triple, and quadruple checking each part of my layout just to make sure I don't have any miscalculations or inconsistencies with my work. This is how the finished PCB looked:
 
@@ -90,7 +90,10 @@ I'm modelling the case design in Onshape and I guess I'll submit an assembly dem
 
 It looks great and I'm really happy about how I added the 2 stage stands at the top, I hope they work but yeah this is basically it for now.
 
+# 8/2/2026
+[LAPSE](https://lapse.hackclub.com/timelapse/M3SkIIiRgxoi)
 
+I finished the entire Board body in about an hour. I'm moving onto the Firmware now. I finished modelling the Rotary Encoder Knob and Recessed the OLED Display panel a little more to allow this to keep it's low-(ish) profile silhouette.
 
 
 
