@@ -91,7 +91,7 @@ I'm modelling the case design in Onshape and I guess I'll submit an assembly dem
 It looks great and I'm really happy about how I added the 2 stage stands at the top, I hope they work but yeah this is basically it for now.
 
 # 8/2/2026
-[LAPSE](https://lapse.hackclub.com/timelapse/Tz_bAdnx_3QB)
+[LAPSE](https://lapse.hackclub.com/timelapse/Tz_bAdnx_3QB) [LAPSE](https://lapse.hackclub.com/timelapse/NqZxc6qf-A2T)
 
 I finished the entire Board body in about an hour. I'm moving onto the Firmware now. I finished modelling the Rotary Encoder Knob and Recessed the OLED Display panel a little more to allow this to keep it's low-(ish) profile silhouette. 
 
@@ -103,7 +103,7 @@ And I forgot to generate the BOM and fabrication files for JLCPCB or PCBWAY so I
 
 <img width="1399" height="729" alt="image" src="https://github.com/user-attachments/assets/13c845a1-9f3c-4d3d-b285-2ed3ef9bd253" />
 
-
+Ok, just finished the second lapse. I'm absolutely livid at how terrible Gemini is as an LLM. It kept recommending things and making me go down rabbit holes that were completely unrelated and I had to use Gemini because I ran out of Claude credits 😭 I spent 4 hours of my life coding a dysfunctional firmware because Gemini is so redundant it's actually crazy bro. Anyway I at least mapped the keys into the JSON dictionary and I reverted the files mostly to before I started getting baited by Gemini. I'm honestly just happy I can start from a feasible position now because the amount of time I just wasted is insane. I'm sticking to Claude for life. 
 
 
 
