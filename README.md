@@ -76,12 +76,15 @@ Fn + End	Increase RGB animation speed
 RGB brightness is limited in firmware because all 91 LEDs are powered from USB VBUS. Increasing the limit could exceed the available USB current.
 
 ## BOM
-- PCB - $37.84
-- Switches, Keycaps, Encoder, Display - $15
-- Plastic Case - Free (Printing Legion)
-- Electronic Components - $22.18
-- Display Connector - $7
-- Total: ~$83.02
+| Item | Cost |
+|------|------|
+| PCB | $37.84 |
+| Switches, Keycaps, Encoder, Display | $15.00 |
+| Plastic Case | Free (Printing Legion) |
+| Electronic Components | $22.18 |
+| Display Connector | $7.00 |
+| Buffer for shipping and fees | $5.00 |
+| **Total** | **~$88.02** |
 
 
 
