@@ -108,7 +108,8 @@ Ok, just finished the second lapse. I'm absolutely livid at how terrible Gemini 
 # 8/3/2026
 [LAPSE](https://lapse.hackclub.com/timelapse/1gnXPpYtZCP9)
 
-Just some housekeeping adjustments made to the onshape file. Also I realized I forgot to share the link to the native onshape document, [so here it is](https://cad.onshape.com/documents/8cd69c605bee1d154198ffc3/w/f18789aa034f433dfb01300c/e/379cd418fcd399b0823d03fd?renderMode=0&uiState=6a70ef1ef884ff3f2fcfd699). I fixed some interference issues I noticed in assembly, they werent that important but I'm just making sure everything fits together smoothly.
+Just some housekeeping adjustments made to the onshape file. Also I realized I forgot to share the link to the native onshape document, [so here it is](https://cad.onshape.com/documents/8cd69c605bee1d154198ffc3/w/f18789aa034f433dfb01300c/e/379cd418fcd399b0823d03fd?renderMode=0&uiState=6a70ef1ef884ff3f2fcfd699). I fixed some interference issues I noticed in assembly, they werent that important but I'm just making sure everything fits together smoothly. Specifically I made holes to accommodate for the hardware components a little more fairly.
+<img width="1421" height="394" alt="image" src="https://github.com/user-attachments/assets/0dba3802-ddbd-40b4-b715-699305c424b7" />
 
 # 8/4/2026
 [LAPSE](https://lapse.hackclub.com/timelapse/J0E3boF5okCd) [LAPSE](https://lapse.hackclub.com/timelapse/QhkDZo6vc7pb)
@@ -123,6 +124,8 @@ Just finished calculating how much this would cost, with the BOM and everything.
 
 So not that bad. I hope I have enough currency leftover to buy some RAM. Anyways, I'll be working on the Firmware later today.
 A couple minutes after and I finished the firmware and the readme is complete. I'm just getting ready to ship now. I forgot to lapse when I did this though sadly
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/82faf071-bdbe-453f-9f3b-c266e1d1b566" />
+
 
 
 
