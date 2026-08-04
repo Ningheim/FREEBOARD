@@ -2,6 +2,7 @@
 [LAPSE](https://lapse.hackclub.com/timelapse/CAK7ywI3q3qV)
 
 **Total time spent: 3 hours**
+
 I studied keyboard anatomy and creation for a while before starting this project. I now know I need three things to actually make this keyboard:
 
 - **PCB**
@@ -23,7 +24,8 @@ This was a pretty difficult process, but I'm super excited and feeling good abou
 # 7/28/2026
 [LAPSE](https://lapse.hackclub.com/timelapse/dE8z8UnWDV4i) [LAPSE](https://lapse.hackclub.com/timelapse/KWQZoNLu7TrB)
 
-**Total time spent: 3 hours**
+**Total time spent: 4 hours**
+
 Made a lot of nice progress with tracing. I troubleshot the switch matrix and I believe it's good as of now. It's easily subject to change after I add the rotary encoder. I'm not exactly sure how I'm supposed to incorporate the encoder right now. All of the other components are pretty straightforward except for that. I'm running out of pins on the Pico so I'm searching for ways to conserve as many as possible. Today I got Claude to help me code a JSON for a keyboard switch layout/plate and I finally got it looking a little more professional. Here's the polished version of what my keyboard layout will look like:
 
 <img width="821" height="313" alt="image" src="https://github.com/user-attachments/assets/ca33dfb7-e9aa-4203-8d0a-1e8f750d27e0" />
@@ -38,6 +40,8 @@ Once I get a response in the channel for help with wiring the power bus lines an
 
 # 7/29/2026
 [LAPSE](https://lapse.hackclub.com/timelapse/rfvNHJk3dFeS)[LAPSE](https://lapse.hackclub.com/timelapse/_yMK92cxTNwy) 
+
+**Total time spent: 6 hours**
 
 Today I finalized the schematic and footprints.
 
@@ -60,12 +64,16 @@ Anyways later today I'll work on the PCB design itself. I'll ask around if there
 # 7/30/2026
 [LAPSE](https://lapse.hackclub.com/timelapse/d9UfakixuzQQ)
 
+**Total time spent: 6 hours**
+
 Just started routing the PCB. It is not looking good at all. My organization is great though, but when I finished it all and went to fill the copper layer I got hundreds of errors and warnings. This was really discouraging but I know it isn't to important since all of my layouts and traces should be connected. I'll look over it again tomorrow. I suspect it's because I didn't put traces or Vias on any of the GND pads believing the layer fill would connect them all automatically. I'll try to do it manually later on.. Anyways the lapse feature has been working pretty well recently! I haven't gotten any corrupt or inaccessible files after strictly doing lapses from lapse.hackclub.com instead of any other embed or site, but, accidentally of course, I took a break to scroll tiktok and play games without pausing the recording so instead of 5 hours and 48 minutes its more like only 5 hours.
 
 <img width="1786" height="605" alt="image" src="https://github.com/user-attachments/assets/608c62f9-636b-4b99-8bcb-3760b20b9668" />
 
 # 7/31/2026
 [LAPSE](https://lapse.hackclub.com/timelapse/Ccc565L8SkLy)
+
+**Total time spent: 4 hours**
 
 Finished 3D modelling the PCB. it took a while but it looks extremely nice, I quickly learned how to add 3d models to a global footprint instead of editing each switch's individual one. I got the DSA keycap models from a reddit post. This is the [link](https://drive.google.com/drive/u/0/folders/0B0LNjZf_tzjWZGhwZ0VKUm9PQVE?resourcekey=0-rYUAMYD1-22Btlgdmpb0IQ) I'm really grateful to the creator. Anyways it looks like this now with all the components (Minus the oled display) modeled:
 
@@ -82,6 +90,8 @@ This would be both aesthetically pleasing and gives the display a little more ac
 # 8/1/2026
 [LAPSE](https://lapse.hackclub.com/timelapse/lMde7KmQML3c) [LAPSE](https://lapse.hackclub.com/timelapse/M3SkIIiRgxoi)
 
+**Total time spent: 12 hours**
+
 Finally completed the PCB within the first hour of this lapse. Spent the rest modelling the case. I'm double, triple, and quadruple checking each part of my layout just to make sure I don't have any miscalculations or inconsistencies with my work. This is how the finished PCB looked:
 
 <img width="1600" height="603" alt="image" src="https://github.com/user-attachments/assets/108113f4-2088-43a3-b2b8-9206295649dd" />
@@ -94,6 +104,8 @@ It looks great and I'm really happy about how I added the 2 stage stands at the 
 
 # 8/2/2026
 [LAPSE](https://lapse.hackclub.com/timelapse/Tz_bAdnx_3QB) [LAPSE](https://lapse.hackclub.com/timelapse/NqZxc6qf-A2T)
+
+**Total time spent: 6 hours**
 
 I finished the entire Board body in about an hour. I'm moving onto the Firmware now. I finished modelling the Rotary Encoder Knob and Recessed the OLED Display panel a little more to allow this to keep it's low-(ish) profile silhouette. 
 
@@ -110,11 +122,15 @@ Ok, just finished the second lapse. I'm absolutely livid at how terrible Gemini 
 # 8/3/2026
 [LAPSE](https://lapse.hackclub.com/timelapse/1gnXPpYtZCP9)
 
-Just some housekeeping adjustments made to the onshape file. Also I realized I forgot to share the link to the native onshape document, [so here it is](https://cad.onshape.com/documents/8cd69c605bee1d154198ffc3/w/f18789aa034f433dfb01300c/e/379cd418fcd399b0823d03fd?renderMode=0&uiState=6a70ef1ef884ff3f2fcfd699). I fixed some interference issues I noticed in assembly, they werent that important but I'm just making sure everything fits together smoothly. Specifically I made holes to accommodate for the hardware components a little more fairly.
+**Total time spent: 1 hour**
+
+Just some housekeeping adjustments made to the onshape file. Also I realized I forgot to share the link to the native onshape document, [so here it is](https://cad.onshape.com/documents/8cd69c605bee1d154198ffc3/w/f18789aa034f433dfb01300c/e/379cd418fcd399b0823d03fd?renderMode=0&uiState=6a70ef1ef884ff3f2fcfd699). I fixed some interference issues I noticed in assembly, they werent that important but I'm just making sure everything fits together smoothly. Specifically I made holes to accommodate for the hardware components a little more fairly. Took a break and failed to resume the lapse yet again though. Sad stuff
 <img width="1421" height="394" alt="image" src="https://github.com/user-attachments/assets/0dba3802-ddbd-40b4-b715-699305c424b7" />
 
 # 8/4/2026
 [LAPSE](https://lapse.hackclub.com/timelapse/J0E3boF5okCd) [LAPSE](https://lapse.hackclub.com/timelapse/QhkDZo6vc7pb)
+
+**Total time spent: 1 hour**
 
 Just finished calculating how much this would cost, with the BOM and everything. Here are the results:
 
@@ -125,7 +141,7 @@ Just finished calculating how much this would cost, with the BOM and everything.
 - Total: ~$75.02
 
 So not that bad. I hope I have enough currency leftover to buy some RAM. Anyways, I'll be working on the Firmware later today.
-A couple minutes after and I finished the firmware and the readme is complete. I'm just getting ready to ship now. I forgot to lapse when I did this though sadly
+A couple minutes after and I finished the firmware and the readme is complete. I'm just getting ready to ship now. I forgot to lapse I think all this time is taking a hit on my health dawg 
 <img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/82faf071-bdbe-453f-9f3b-c266e1d1b566" />
 
 
