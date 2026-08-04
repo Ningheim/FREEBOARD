@@ -12015,16 +12015,6 @@
 		)
 		(uuid "a77cb6dc-8c18-4585-8326-c7b256a2cfc5")
 	)
-	(label "+5V"
-		(at 349.25 223.52 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a8e40fe7-a6bb-4721-9219-85b92c172c1d")
-	)
 	(label "Col12"
 		(at 337.82 39.37 0)
 		(effects
@@ -50155,84 +50145,6 @@
 			(project "FREEBOARD"
 				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
 					(reference "D126")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 349.25 248.92 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ed361395-4318-4b9f-b295-e20fc1250be4")
-		(property "Reference" "#PWR018"
-			(at 349.25 255.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 349.25 254 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 349.25 248.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 349.25 248.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 349.25 248.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3ae0741e-35b8-44d2-bb1f-8f98e358695c")
-		)
-		(instances
-			(project "FREEBOARD"
-				(path "/08dde3a1-be10-42d5-942d-cd142127e9fa"
-					(reference "#PWR018")
 					(unit 1)
 				)
 			)
