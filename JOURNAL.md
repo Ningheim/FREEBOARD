@@ -105,7 +105,10 @@ And I forgot to generate the BOM and fabrication files for JLCPCB or PCBWAY so I
 
 Ok, just finished the second lapse. I'm absolutely livid at how terrible Gemini is as an LLM. It kept recommending things and making me go down rabbit holes that were completely unrelated and I had to use Gemini because I ran out of Claude credits 😭 I spent 4 hours of my life coding a dysfunctional firmware because Gemini is so redundant it's actually crazy bro. Anyway I at least mapped the keys into the JSON dictionary and I reverted the files mostly to before I started getting baited by Gemini. I'm honestly just happy I can start from a feasible position now because the amount of time I just wasted is insane. I'm sticking to Claude for life. 
 
+# 8/3/2026
+LAPSE
 
+Just some housekeeping adjustments made to the onshape file. Also I realized I forgot to share the link to the native onshape document, [so here it is](https://cad.onshape.com/documents/8cd69c605bee1d154198ffc3/w/f18789aa034f433dfb01300c/e/379cd418fcd399b0823d03fd?renderMode=0&uiState=6a70ef1ef884ff3f2fcfd699). I fixed some interference issues I noticed in assembly, they werent that important but I'm just making sure everything fits together smoothly.
 
 
 
