@@ -36,5 +36,22 @@ You can use adhesive for some of the parts but it isn't required as they should 
 
 
 
+## BOM
+- PCB - $37.84
+- Switches, Keycaps, Encoder, Display - $15
+- Plastic Case - Free (Printing Legion)
+- Electronic Components - $22.18
+- Display Connector - $7
+- Total: ~$83.02
+
+
+
+
+
+
+
+
+
+
 
 
