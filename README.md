@@ -8,7 +8,8 @@ This keyboard is powered by an Orpheus/Raspberry Pi Pico and an additional MCP23
 <img width="821" height="313" alt="LAYOUT" src="https://github.com/user-attachments/assets/9b65434e-cad4-46cb-b08a-8eb8d06a1bae" />
 
 ### Schematic (KiCAD):
-<img width="1825" height="855" alt="SCHEMATIC" src="https://github.com/user-attachments/assets/d2501b64-525a-49d<img width="967" height="641" alt="CASE" src="https://github.com/user-attachments/assets/0f23a9c8-376e-4b9b-80dc-48ec150e7920" />
+<img width="1825" height="855" alt="SCHEMATIC" src="https://github.com/user-attachments/assets/d2501b64-525a-49d" />
+<img width="967" height="641" alt="CASE" src="https://github.com/user-attachments/assets/0f23a9c8-376e-4b9b-80dc-48ec150e7920" />
 7-afac-eb8820981dad" />
 
 ### PCB (KiCAD):
