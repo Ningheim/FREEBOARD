@@ -114,11 +114,11 @@ Just some housekeeping adjustments made to the onshape file. Also I realized I f
 
 Just finished calculating how much this would cost, with the BOM and everything. Here are the results:
 
-PCB - $37.84
-Switches, Keycaps, Encoder, Display - $15
-Plastic Case - Free (Printing Legion)
-Electronic Components: $22.18
-Total: ~$75.02
+- PCB - $37.84
+- Switches, Keycaps, Encoder, Display - $15
+- Plastic Case - Free (Printing Legion)
+- Electronic Components: $22.18
+- Total: ~$75.02
 
 So not that bad. I hope I have enough currency leftover to buy some RAM. Anyways, I'll be working on the Firmware later today.
 
