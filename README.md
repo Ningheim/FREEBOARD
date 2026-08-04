@@ -26,14 +26,7 @@ You can use adhesive for some of the parts but it isn't required as they should 
 2. Cut a two 1mm diameter rods to 64mm and Thread each one through the holes of each set of tilt stands you as shown in the assembly tab on the onshape document. The stands should be able to turn/revolve around the axis of the rods, and you can make the rods of any material it just has to be firm. To lock the rods in, melt plastic or insert rubber friction pads into each of the 6 empty rectangular indents on the back of the `Base Case`
 3. Then you can put in the PCB with the `Plate` ontop of it. Now we have the `Top Cover` and `Translucent Emblem` left, so put the `Translucent Emblem` into the matching cutout on the `Top Cover`, and insert those joined pieces into the top of the case, to keep everything pressed down. Lastly, add the encoder knob and you're done!
 
-
-
-
-
-
-
-
-
+## How To Flash
 
 
 ## BOM
