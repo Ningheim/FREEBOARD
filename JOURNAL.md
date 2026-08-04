@@ -1,7 +1,7 @@
 # 7/27/2026
 [LAPSE](https://lapse.hackclub.com/timelapse/CAK7ywI3q3qV)
-**Total time spent: 3 hours**
 
+**Total time spent: 3 hours**
 I studied keyboard anatomy and creation for a while before starting this project. I now know I need three things to actually make this keyboard:
 
 - **PCB**
@@ -23,6 +23,7 @@ This was a pretty difficult process, but I'm super excited and feeling good abou
 # 7/28/2026
 [LAPSE](https://lapse.hackclub.com/timelapse/dE8z8UnWDV4i) [LAPSE](https://lapse.hackclub.com/timelapse/KWQZoNLu7TrB)
 
+**Total time spent: 3 hours**
 Made a lot of nice progress with tracing. I troubleshot the switch matrix and I believe it's good as of now. It's easily subject to change after I add the rotary encoder. I'm not exactly sure how I'm supposed to incorporate the encoder right now. All of the other components are pretty straightforward except for that. I'm running out of pins on the Pico so I'm searching for ways to conserve as many as possible. Today I got Claude to help me code a JSON for a keyboard switch layout/plate and I finally got it looking a little more professional. Here's the polished version of what my keyboard layout will look like:
 
 <img width="821" height="313" alt="image" src="https://github.com/user-attachments/assets/ca33dfb7-e9aa-4203-8d0a-1e8f750d27e0" />
