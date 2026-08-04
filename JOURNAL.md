@@ -110,9 +110,17 @@ LAPSE
 
 Just some housekeeping adjustments made to the onshape file. Also I realized I forgot to share the link to the native onshape document, [so here it is](https://cad.onshape.com/documents/8cd69c605bee1d154198ffc3/w/f18789aa034f433dfb01300c/e/379cd418fcd399b0823d03fd?renderMode=0&uiState=6a70ef1ef884ff3f2fcfd699). I fixed some interference issues I noticed in assembly, they werent that important but I'm just making sure everything fits together smoothly.
 
+# 8/4/2026
 
+Just finished calculating how much this would cost, with the BOM and everything. Here are the results:
 
+PCB - $37.84
+Switches, Keycaps, Encoder, Display - $15
+Plastic Case - Free (Printing Legion)
+Electronic Components: $22.18
+Total: ~$75.02
 
+So not that bad. I hope I have enough currency leftover to buy some RAM. Anyways, I'll be working on the Firmware later today.
 
 
 
