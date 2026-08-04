@@ -121,6 +121,7 @@ Just finished calculating how much this would cost, with the BOM and everything.
 - Total: ~$75.02
 
 So not that bad. I hope I have enough currency leftover to buy some RAM. Anyways, I'll be working on the Firmware later today.
+A couple minutes after and I finished the firmware and the readme is complete. I'm just getting ready to ship now. I forgot to lapse when I did this though sadly
 
 
 
