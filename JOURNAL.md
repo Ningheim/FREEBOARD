@@ -1,5 +1,6 @@
 # 7/27/2026
 [LAPSE](https://lapse.hackclub.com/timelapse/CAK7ywI3q3qV)
+**Total time spent: 3 hours**
 
 I studied keyboard anatomy and creation for a while before starting this project. I now know I need three things to actually make this keyboard:
 
