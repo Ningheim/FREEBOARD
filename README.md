@@ -86,7 +86,7 @@ RGB brightness is limited in firmware because all 91 LEDs are powered from USB V
 | Buffer for shipping and fees | $5.00 |
 | **Total** | **~$88.02** |
 
-
+Note: The BOM file itself is in ~\FREEPCB\PRODUCTION, and the keycaps, switches, stabilizers, and encoder all probably have to be bought from an external retailer. So prices may vary.
 
 
 
