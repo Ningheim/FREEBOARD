@@ -130,7 +130,7 @@ Just some housekeeping adjustments made to the onshape file. Also I realized I f
 # 8/4/2026
 [LAPSE](https://lapse.hackclub.com/timelapse/J0E3boF5okCd) [LAPSE](https://lapse.hackclub.com/timelapse/QhkDZo6vc7pb)
 
-**Total time spent: 1 hour**
+**Total time spent: 4 hours**
 
 Just finished calculating how much this would cost, with the BOM and everything. Here are the results:
 
@@ -141,7 +141,10 @@ Just finished calculating how much this would cost, with the BOM and everything.
 - Total: ~$75.02
 
 So not that bad. I hope I have enough currency leftover to buy some RAM. Anyways, I'll be working on the Firmware later today.
-A couple minutes after and I finished the firmware and the readme is complete. I'm just getting ready to ship now. I forgot to lapse I think all this time is taking a hit on my health dawg 
+A couple minutes after and I finished the firmware and the readme is complete. I'm just getting ready to ship now. I forgot to lapse I think all this time is taking a hit on my health dawg. This time I lost a lot more time though so I'll use my hackatime tracker as proof of everything:
+<img width="558" height="46" alt="image" src="https://github.com/user-attachments/assets/1c1d9179-826c-4099-b906-6908cfced6d2" />
+
+Also the firmware:
 <img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/82faf071-bdbe-453f-9f3b-c266e1d1b566" />
 
 
