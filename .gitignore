@@ -1,0 +1,5 @@
+# Compiled QMK firmware
+*.uf2
+
+# KiCad automatic history
+FREEPCB/.history/
